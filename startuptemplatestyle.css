@@ -35,6 +35,10 @@ header.startup h1 {
   font-size: 2rem; 
 }
 
+#clear {
+  display: flex;
+  justify-content: center;
+}
 .btn {
   font-weight: 700;
   text-transform: uppercase;
